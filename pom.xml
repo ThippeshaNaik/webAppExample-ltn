@@ -38,8 +38,6 @@
 			</container>
 		</configuration>
 	</plugin>
-	        <!-- Naik lambani-->
-	<!-- Kirana malla gouri -->
 	
 		<!-- Maven Plugin for Jetty -->
 <!-- 			<plugin>
