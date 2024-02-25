@@ -39,7 +39,8 @@
 		</configuration>
 	</plugin>
 	        <!-- Naik lambani-->
-	        <!-- Kirana  -->
+	<!-- Kirana malla  -->
+	
 		<!-- Maven Plugin for Jetty -->
 <!-- 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>
