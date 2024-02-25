@@ -38,7 +38,8 @@
 			</container>
 		</configuration>
 	</plugin>
-		
+	        <!-- Naik lambani-->
+	        <!-- -->
 		<!-- Maven Plugin for Jetty -->
 <!-- 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>
@@ -50,8 +51,8 @@
 					</webApp>
 				</configuration>
 			</plugin> -->
-			
-			
+                        			
+		
 		</plugins>
 	</build>
 </project>
